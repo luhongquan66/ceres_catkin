@@ -9,3 +9,6 @@ In order to use the ceres covariance computation, you must use an PIC version of
   * https://github.com/ethz-asl/glog_catkin
   * https://github.com/ethz-asl/gflags_catkin
   * https://github.com/ethz-asl/catkin_simple
+
+luhonquan add:
+  Refer http://ceres-solver.org/installation.html#linux to install dependencies that ceres needed!
